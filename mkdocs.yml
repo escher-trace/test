@@ -1,6 +1,6 @@
-site_name: Escher Trace
+site_name: Escher-Trace
 nav:
-        - 1. Getting Started: GettingStarted.md
+        - 1. Getting Started with Escher-Trace: GettingStarted.md
         - 2. Edit Individual Graphs: EditIndivGraphs.md
         - 3. Changing the Displayed Graph Type: GraphTypes.md
         - 4. Changing Graph Attributes: GraphAttributes.md
@@ -9,6 +9,6 @@ nav:
         - 7. Edit the Data: EditData.md
         - 8. Save Workspace: SaveWorkspace.md
     
-theme: readthedocs
+theme: rtd-dropdown
 markdown_extensions:
     - attr_list
