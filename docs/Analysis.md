@@ -54,7 +54,7 @@ Submit:
 
 Generating a new graph in the top left corner of the Escher Map
 
-![Screenshot](../img/CompareMetabolitesAfterSubmit.png){: style='height:250px' }
+![Screenshot](../img/CompareMetabolitesAfterSubmit.PNG){: style='height:250px' }
 
 The graph title, y-axis, and x-axis label text can be edited by clicking them
 
@@ -62,7 +62,7 @@ The graph title, y-axis, and x-axis label text can be edited by clicking them
 
 After edits:
 
-![Screenshot](../img/CompareMetabolitesFinalGraph.png){: style='height:250px' }
+![Screenshot](../img/CompareMetabolitesFinalGraph.PNG){: style='height:250px' }
 
 
 Abort:
@@ -113,11 +113,11 @@ Submit:
  
 Before Submit:
 
-![Screenshot](../img/NormalizeAbundancesBeforeSubmit.png){: style='width:400px' }
+![Screenshot](../img/NormalizeAbundancesBeforeSubmit.PNG){: style='width:400px' }
  
 After Submit:
 
-![Screenshot](../img/NormalizeAbundancesAfterSubmit.png){: style='width:400px' }
+![Screenshot](../img/NormalizeAbundancesAfterSubmit.PNG){: style='width:400px' }
  
 Abort: 
 
@@ -228,11 +228,11 @@ Submit:
  
 Before Submit:
 
-![Screenshot](../img/QuantitativeStandardsBeforeSubmit.png){: style='width:250px' }
+![Screenshot](../img/QuantitativeStandardsBeforeSubmit.PNG){: style='width:250px' }
 
 After Submit:
 
-![Screenshot](../img/QuantitativeStandardsAfterSubmit.png){: style='width:220px' }
+![Screenshot](../img/QuantitativeStandardsAfterSubmit.PNG){: style='width:220px' }
 
 Abort:
 

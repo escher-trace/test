@@ -71,13 +71,13 @@ Submit Changes:
 
 Before Submit:
 
-![Screenshot](../img/MetaboliteDisplayBeforeSubmit.png){: style='width:600px' }
+![Screenshot](../img/MetaboliteDisplayBeforeSubmit.PNG){: style='width:600px' }
 
 Only selected metabolites will be displayed on the Escher Map after submitting the table. 
 
 After Submit:
 
-![Screenshot](../img/MetaboliteDisplayAfterSubmit.png){: style='width:600px' }
+![Screenshot](../img/MetaboliteDisplayAfterSubmit.PNG){: style='width:600px' }
 
 Abort Changes:
 
@@ -101,11 +101,11 @@ To submit changes click **Submit Form**.
 
 Before Submit:
 
-![Screenshot](../img/MetaboliteDisplayIsoBeforeSubmit.png){: style='width:550px' }
+![Screenshot](../img/MetaboliteDisplayIsoBeforeSubmit.PNG){: style='width:550px' }
 
 After Submit:
 
-![Screenshot](../img/MetaboliteDisplayIsoAfterSubmit.png){: style='width:550px' }
+![Screenshot](../img/MetaboliteDisplayIsoAfterSubmit.PNG){: style='width:550px' }
 
 
 
@@ -120,12 +120,12 @@ Click the **Create Carbon Diagram** button to make the selection appear.
 
 After click:
 
-![Screenshot](../img/CarbonDiagramDisplay.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplay.PNG){: style='width:600px' }
 
 ### 5.3.1 Building the Carbon Diagram
 After the Create Carbon Diagram pop-up appears, the user may begin creating their carbon diagram using the arrow keys to add a circle in the direction corresponding to the arrow.
 
-![Screenshot](../img/CarbonDiagramDisplayAddCircles.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplayAddCircles.PNG){: style='width:600px' }
 
 
 ### 5.3.2 Removing Carbon Circles
@@ -139,17 +139,17 @@ Hover over which circle you would like to remove. The circles will turn red as y
 
 Click the red circle and it will be removed. All other circles positions will remain unaffected.
 
-![Screenshot](../img/CarbonDiagramDisplayRemoveCirclesRemoved.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplayRemoveCirclesRemoved.PNG){: style='width:600px' }
 
 
 ### 5.3.3 Adding Text Label
 To add a text label to the diagram, enter the text you would like included in the label in the **Text Label** input.
 
-![Screenshot](../img/CarbonDiagramDisplayEditText.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplayEditText.PNG){: style='width:600px' }
 
 Click **Add Text Label** to have the label included in the diagram. The label can be updated by reentering text in the Text Label input and reclick **Add Text Label**.
 
-![Screenshot](../img/CarbonDiagramDisplaySubmitText.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplaySubmitText.PNG){: style='width:600px' }
 
 Click and drag the Text label to the desired location in the diagram. 
 
@@ -158,11 +158,11 @@ Click and drag the Text label to the desired location in the diagram.
 ### 5.3.4 Adding Carbon Diagram to Escher-Trace Workspace
 Submit the Carbon diagram by clicking **Add Structure to Map**
 
-![Screenshot](../img/CarbonDiagramDisplaySubmit.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplaySubmit.PNG){: style='width:600px' }
 
 After submission the diagram will appear in the top left corner of the Escher map:
 
-![Screenshot](../img/CarbonDiagramDisplayAfterSubmit.png){: style='width:600px' }
+![Screenshot](../img/CarbonDiagramDisplayAfterSubmit.PNG){: style='width:600px' }
 
 The diagram can be moved anywhere in the Escher map by clicking and dragging it:
 
@@ -195,7 +195,7 @@ To change the colors which indicate labeled and unlabeled carbons select **Color
 
 After click:
 
-![Screenshot](../img/CarbonDiagramDisplayChangeColor.png){: style='width:500px' }
+![Screenshot](../img/CarbonDiagramDisplayChangeColor.PNG){: style='width:500px' }
 
 You can then choose which color will indicate a labeled or unlabeled carbon by entering a HEX code into the color inputs, or selecting the color from the color pallete that appears when clicking on the color inputs.
 
@@ -207,7 +207,7 @@ To submit the changes, click **Submit Colors**
 
 After submission:
 
-![Screenshot](../img/CarbonDiagramDisplayAfterSubmitColor.png){: style='width:500px' }
+![Screenshot](../img/CarbonDiagramDisplayAfterSubmitColor.PNG){: style='width:500px' }
 
 #### 5.3.5.2 Changing Size of Carbon Diagram
 To change the size of the carbon diagram select **Size** in the dropdown menu.
